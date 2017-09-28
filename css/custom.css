@@ -1,0 +1,98 @@
+#imaginary_container{
+    margin-top:20%; /* Don't copy this */
+}
+.stylish-input-group .input-group-addon{
+    background: white !important; 
+    border-radius: 0px;
+}
+.stylish-input-group .form-control{
+	border-right:0; 
+	box-shadow:0 0 0;
+	border-radius: 0px; 
+	border-color:#ccc;
+}
+.stylish-input-group button{
+    border:0;
+    background:transparent;
+}
+
+li,ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.rowheader{
+	padding:14px 0;
+}
+.mauxanh{
+	background-color:  #4ccfc1;
+}
+.mauxam{
+	color: #afafaf;
+}
+.mautrang{
+	color: #fff;
+}
+.nentrang{
+	background-color: #fff;
+}
+.vienxam{
+	border-radius: 3px;
+	border-color: #e4e4e4;
+	margin: 0 20px;
+	border: 1px solid #e4e4e4;
+	border-bottom: 5px solid #3cc395;
+	box-shadow: 1px  1px  1px  1px  #e4e4e4;
+	padding: 10px 20px;
+}
+.bovuong{
+		border-radius: 0px;
+}
+.chutrang{
+	color: #fff;
+	padding-bottom: 5px;
+}
+.cantrenmenu{
+	padding-top: 1px;
+	margin: 0px;
+}
+.breadcrumb-item+.breadcrumb-item::before{
+	content: "|";
+	color: white;
+	font-weight: 10px;
+	font-size: 20px;
+}
+.pv1{
+	margin-top:0px; 
+}
+.trenduoiSP{
+	margin:20px 0;
+}
+.footer1{
+	padding-top: 40px;
+	margin-left: 40px;
+}
+.carousel {
+    padding-top: 70px;
+    padding-bottom: 50px;
+}
+
+.pading0{
+	padding-right: 0px;
+} 
+
+
+.carousel11 {
+    padding-top: 25px;
+    padding-bottom: 10px;
+}
+
+
+
+.carousel-indicators li {
+    width: 12px;
+    height: 12px;
+    margin-right: 9px;
+    border-radius: 7px;
+}
